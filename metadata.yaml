@@ -1,0 +1,52 @@
+_repo: Contes-pour-les-bibliophiles_61239
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Albert_Robida
+    - https://fr.wikipedia.org/wiki/Albert_Robida
+creator:
+  author:
+    agent_name: Uzanne, Octave
+    alias: Uzanne, Louis Octave
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1042'
+    url: http://www.gutenberg.org/2009/agents/1042
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Octave_Uzanne
+    - https://fr.wikipedia.org/wiki/Octave_Uzanne
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Livres, Collections et Bibliophilie
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61239'
+  lccn: '14016160'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bibliomania'
+- !lcsh 'Erotic literature'
+- GITenberg
+tableOfContents: A Albert Robida, imaigier, épistre dédicatoire -- Un almanach des
+  muses de 1789 -- L'héritage Sigismond -- Le bibliothécaire van der Boëcken, de Rotterdam
+  -- Un roman de chevalerie franco-japonais -- Les romantiques inconnus -- Le carnet
+  de notes de Napoléon Ier -- La fin des livres -- Poudrière et bibliothèque -- L'enfer
+  du chevalier de Kerhany -- Les estrennes du poète Scarron -- Histoires de momies
+  (récits authentiques).
+title: Contes pour les bibliophiles
+url: http://www.gutenberg.org/ebooks/61239
