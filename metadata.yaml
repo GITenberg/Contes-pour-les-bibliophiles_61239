@@ -1,5 +1,5 @@
 _repo: Contes-pour-les-bibliophiles_61239
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Robida, Albert
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Albert_Robida
     - https://fr.wikipedia.org/wiki/Albert_Robida
+covers:
+- cover_type: archival
+  image_path: 61239-h/images/cover.jpg
 creator:
   author:
     agent_name: Uzanne, Octave
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Octave_Uzanne
     - https://fr.wikipedia.org/wiki/Octave_Uzanne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61239#Contes-pour-les-bibliophiles
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Livres, Collections et Bibliophilie
